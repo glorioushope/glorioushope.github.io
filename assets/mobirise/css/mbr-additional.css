@@ -3741,7 +3741,14 @@ body {
   text-align: left;
 }
 .cid-rgB3CrWvLM {
-  background-image: url("../../../assets/images/participate-2000x1500.jpg");
+  background-image: url("../../../assets/images/theme2019-1280x720.jpg");
+}
+.cid-rgB3CrWvLM H1 {
+  text-align: left;
+}
+.cid-rgB3CrWvLM .mbr-text,
+.cid-rgB3CrWvLM .mbr-section-btn {
+  text-align: left;
 }
 .cid-rgB2X5ZAHE {
   padding-top: 90px;
