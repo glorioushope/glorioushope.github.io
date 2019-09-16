@@ -1,5 +1,7 @@
 (function($) {
-
+    
+    $('head').append('<link rel="stylesheet" href="assets/responsive/css/style.css" type="text/css" />');
+    
     var isBuilder = $('html').hasClass('is-builder');
 
     $.extend($.easing, {
