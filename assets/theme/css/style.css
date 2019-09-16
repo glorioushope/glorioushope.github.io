@@ -495,3 +495,6 @@ nav .mbr-section-btn {
 	top: 0;
 	left: -2400px;
 }
+
+/** responsive fix **/
+@import url("../../responsive/css/style.css");
