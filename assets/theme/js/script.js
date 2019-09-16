@@ -2,8 +2,7 @@
     
     /** responsive fix **/
     $('head').append('<link rel="stylesheet" href="assets/responsive/css/style.css" type="text/css" />');
-    $('body').append('<script src="assets/responsive/css/script.js"></script>');
-//    $($('<script src="assets/responsive/css/script.js"></script>')).after('<script src="assets/formoid/formoid.min.js"></script>');
+    $('body').append('<script src="assets/responsive/js/script.js"></script>');
     
     var isBuilder = $('html').hasClass('is-builder');
 
