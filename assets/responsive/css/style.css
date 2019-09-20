@@ -159,6 +159,17 @@
     .header3[id*="header3"].cid-r1yFlXPkVD {
         padding-top: 40px;
     }
+    
+    section[id*="features"] {
+        padding-top: 30px;
+        padding-bottom: 0;
+    }
+    section[id*="features"] .card {
+        margin-bottom: 0;
+    }
+    section[id*="features"] .card:last-child .card-box {
+        padding-bottom: 0;
+    }
 
     section[id*="footer1-"] {
         padding-bottom: 7rem;
