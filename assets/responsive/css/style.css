@@ -76,6 +76,9 @@
     #bootstrap-toggle .card {
         margin: 0;
     }
+    #bootstrap-toggle .card:last-child {
+        margin-bottom: -60px;
+    }
 
     #bootstrap-toggle .card .card-header a.panel-title h4 {
         position: relative;
