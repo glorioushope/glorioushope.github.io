@@ -3,67 +3,63 @@
     Author     : Jenn Junio
 */
 
-@media only screen 
-  and (max-device-width: 1024px) {
-    
-}
-
-@media only screen 
-  and (max-device-width: 768px) {
-    
-}
-
-/* Landscape & Portrait */
-@media only screen 
-  and (min-device-width: 768px)
-  and (max-device-width: 1024px)
-  and (-webkit-min-device-pixel-ratio: 1) {
-    
-}
-
-/* Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: landscape) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-    
-}
-
-/* Portrait */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: portrait) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-    
-}
-
 /* Mobile */
 @media only screen 
   and (max-device-width: 767px) {
-    body#home-page .navbar-dropdown.bg-color.transparent {
+    .navbar-dropdown.bg-color.transparent {
         background: #232323;
     }
 
-    body#home-page section .mbr-background-video-preview {
+    section .mbr-background-video-preview {
         background-size: 960px !important;
         background-repeat: no-repeat;
         background-position: center 60px !important;
         background-color: #ffffff;
     }
 
-    body#home-page p.mbr-text.pb-3.mbr-fonts-style.display-5 {
+    p.mbr-text.pb-3.mbr-fonts-style.display-5 {
         height: 595px;
     }
 
     section.mbr-fullscreen .btn {
+
         display: block;
     }
 
-    body#home-page section#header2-5y.mbr-fullscreen .btn-white-outline {
+    section#header2-5y.mbr-fullscreen .btn-white-outline {
         color: #232323;
         border-color: #232323;
+    }
+    
+    .mbr-fullscreen:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: rgba(35, 35, 35, 0.25);
+        width: 100%;
+        height: 100%;
+    }
+
+    section[class*="testimonials"] {
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    section[class*="testimonials"] .mbr-testimonial {
+        padding: 0 0 15px !important;
+    }
+    section[class*="testimonials"] .mbr-testimonial:last-child {
+        padding-bottom: 0 !important;
+    }
+    section[class*="testimonials"] .mbr-testimonial .card-block {
+        flex: none;
+        padding: 0;
+    }
+    section[class*="testimonials"] .mbr-testimonial .card-block .testimonial-photo {
+        margin-top: 20px;
+    }
+    section[class*="testimonials"] .mbr-testimonial .card-footer {
+        padding-bottom: 10px;
     }
 
     section[id*="footer1-"] {
