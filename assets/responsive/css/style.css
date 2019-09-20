@@ -116,6 +116,29 @@
         margin-right: 10px;
         width: auto;
     }
+    
+    section[id*="gallery"] {
+        margin-top: 20px;
+    }
+    section[id*="gallery"].mbr-gallery .mbr-gallery-row {
+        height: auto !important;
+    }
+    section[id*="gallery"].mbr-gallery .mbr-gallery-item {
+        padding: 0 25px;
+        margin: 10px 0 25px;
+        display: block;
+        top: auto !important;
+        position: relative !important;
+    }
+
+    .cid-r1yBcLnn0p {
+        margin-top: 3rem;
+        padding-bottom: 0;
+    }
+    .cid-r1yBcLnn0p .btn {
+        margin-left: 0;
+        margin-right: 0;
+    }
 
     section[id*="footer1-"] {
         padding-bottom: 7rem;
