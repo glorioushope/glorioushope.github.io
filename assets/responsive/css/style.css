@@ -42,27 +42,26 @@
 /* Mobile */
 @media only screen 
   and (max-device-width: 767px) {
-    .navbar-dropdown.bg-color.transparent {
+    body#home-page .navbar-dropdown.bg-color.transparent {
         background: #232323;
     }
 
-    section .mbr-background-video-preview {
+    body#home-page section .mbr-background-video-preview {
         background-size: 960px !important;
         background-repeat: no-repeat;
         background-position: center 60px !important;
         background-color: #ffffff;
     }
 
-    p.mbr-text.pb-3.mbr-fonts-style.display-5 {
+    body#home-page p.mbr-text.pb-3.mbr-fonts-style.display-5 {
         height: 595px;
     }
 
     section.mbr-fullscreen .btn {
-
         display: block;
     }
 
-    section#header2-5y.mbr-fullscreen .btn-white-outline {
+    body#home-page section#header2-5y.mbr-fullscreen .btn-white-outline {
         color: #232323;
         border-color: #232323;
     }
