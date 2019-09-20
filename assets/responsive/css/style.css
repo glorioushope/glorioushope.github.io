@@ -23,6 +23,7 @@
 
     section.mbr-fullscreen .btn {
         display: block;
+        width: auto;
     }
 
     section#header2-5y.mbr-fullscreen .btn-white-outline {
@@ -104,7 +105,8 @@
         margin-right: 10px;
     }
     .btn.display-4 {
-        width: 100%;
+        display: block;
+        width: auto;
     }
     section[id*="services"] {
         padding-bottom: 0;
