@@ -65,6 +65,41 @@
     section[class*="testimonials"] .mbr-testimonial .card-footer {
         padding-bottom: 10px;
     }
+    
+    section.about-the-program {
+        padding-top: 6rem;
+    }
+    section.about-the-program p.display-5 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .cid-qYXkswzZJI h2 {
+        margin-bottom: 0;
+    }
+
+    #bootstrap-toggle .card {
+        margin: 0;
+    }
+
+    #bootstrap-toggle .card .card-header a.panel-title h4 {
+        position: relative;
+        padding-left: 65px !important;
+    }
+    #bootstrap-toggle .card .card-header a.panel-title h4 .sign {
+        width: 0;
+        height: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #232323;
+        padding-right: 0 !important;
+        position: absolute;
+        top: 29px;
+        left: 24px;
+    }
+    #bootstrap-toggle .card .card-header a.panel-title h4 .sign:before {
+        display: none;
+    }
 
     section[id*="footer1-"] {
         padding-bottom: 7rem;
