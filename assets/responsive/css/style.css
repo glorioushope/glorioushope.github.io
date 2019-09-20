@@ -170,6 +170,44 @@
     section[id*="features"] .card:last-child .card-box {
         padding-bottom: 0;
     }
+    
+    body#contact-us .mbr-iconfont.mbri-letter {
+        display: inline-block;
+        padding: 0;
+        margin: auto;
+    }
+    body#contact-us .cid-r1yS71tWFu {
+        padding-top: 7rem;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    body#contact-us .cid-r1yS71tWFu .icon-block .icon-block__icon {
+        display: block;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+    .cid-r1yS71tWFu .icon-block {
+        display: block;
+    }
+    body#contact-us .icon-block .icon-block__title {
+        font-style: normal;
+        text-align: left;
+    }
+    body#contact-us .google-map {
+        display: none;
+    }
+    body#contact-us h2.pb-3.align-left.mbr-fonts-style.display-2 {
+        padding-top: 0;
+    }
+    .icon-contacts * {
+        text-align: left;
+    }
+    body#contact-us .icon-contacts h5 {
+        line-height: 150%;
+    }
+    body#contact-us .mbr-form .input-group-btn button[type="submit"] {
+        width: 100%;
+    }
 
     section[id*="footer1-"] {
         padding-bottom: 7rem;
