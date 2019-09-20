@@ -100,7 +100,11 @@
         display: none;
     }
     
-    section.join .mbr-white.col-md-10 > h1, section.join .mbr-white.col-md-10 > p {
+    section.join.mbr-fullscreen {
+        padding-top: 6rem;
+    }
+    section.join .mbr-white.col-md-10 > h1,
+    section.join .mbr-white.col-md-10 > p {
         margin-left: 10px;
         margin-right: 10px;
     }
