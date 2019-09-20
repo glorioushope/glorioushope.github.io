@@ -98,6 +98,22 @@
     #bootstrap-toggle .card .card-header a.panel-title h4 .sign:before {
         display: none;
     }
+    
+    section.join .mbr-white.col-md-10 > h1, section.join .mbr-white.col-md-10 > p {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .btn.display-4 {
+        width: 100%;
+    }
+    section[id*="services"] {
+        padding-bottom: 0;
+    }
+    section[id*="services"] > div {
+        margin-left: 10px;
+        margin-right: 10px;
+        width: auto;
+    }
 
     section[id*="footer1-"] {
         padding-bottom: 7rem;
