@@ -22,7 +22,6 @@
     }
 
     section.mbr-fullscreen .btn {
-
         display: block;
     }
 
@@ -31,10 +30,6 @@
         border-color: #232323;
     }
     
-    body:not(#home-page) .mbr-fullscreen {
-        padding-top: 0;
-        padding-bottom: 0;
-    }
     .mbr-fullscreen:before {
         content: '';
         position: absolute;
