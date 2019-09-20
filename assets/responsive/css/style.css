@@ -139,6 +139,26 @@
         margin-left: 0;
         margin-right: 0;
     }
+    
+    .header3[id*="header3"] {
+        padding-top: 25px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0;
+    }
+    .header3[id*="header3"] .mbr-figure {
+        padding-bottom: 30px;
+    }
+    .header3[id*="header3"] .media-content *:not(.btn) {
+        text-align: left;
+    }
+    .header3[id*="header3"] .media-content a.btn {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .header3[id*="header3"].cid-r1yFlXPkVD {
+        padding-top: 40px;
+    }
 
     section[id*="footer1-"] {
         padding-bottom: 7rem;
