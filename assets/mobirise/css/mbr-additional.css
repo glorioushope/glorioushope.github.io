@@ -8117,4 +8117,15 @@ body.white-nav .navbar-dropdown.bg-color.transparent .nav-link.text-white {
     .cid-rjWO8Nq0yT:before {
         display: none;
     }
+    .cid-rgB3CrWvLM:before {
+        display: none;
+    }
+
+    .cid-rgB3CrWvLM {
+        background-position: center top 40px;
+    }
+
+    .cid-rgB3CrWvLM .container.align-center {
+        margin-top: 200px;
+    }
 }
