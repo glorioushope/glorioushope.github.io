@@ -3743,7 +3743,9 @@ body {
   background-image: url("../../../assets/images/home-banner.png");
 }
 .cid-rgB3CrWvLM {
-  background-image: url("../../../assets/images/heart-matters-banner-01.jpg");
+    background-image: url("../../../assets/images/heart-matters-banner-01.jpg");
+    background-position-x: right;
+    background-position-y: top;
 }
 .cid-rgB3CrWvLM H1 {
   text-align: left;
