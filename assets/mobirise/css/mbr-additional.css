@@ -2450,12 +2450,13 @@ body {
   text-align: left;
 }
 .cid-qYXjL61UwH {
-  background-image: url("../../../assets/images/bg-main-2-2000x1125.jpg");
+  background-image: url("../../../assets/images/heart-matters-banner-default-01.jpg");
 }
 .cid-qYXkswzZJI {
   padding-top: 75px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/issues-bg-3-2000x1125.jpg");
+  /*background-image: url("../../../assets/images/heart-matters-banner-default-01.jpg");*/
+  background: #232323;
 }
 .cid-rjUDNu5H4V {
   padding-top: 60px;
