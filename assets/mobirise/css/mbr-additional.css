@@ -7995,3 +7995,27 @@ body {
 .navbar-dropdown.bg-color.transparent .nav-link.text-white {
     color: #316c11 !important;
 }
+@media (max-width: 1024px) {
+.cid-roYhSV5O6A {
+    background-size: contain;
+    background-color: white;
+}
+.cid-rjWO8Nq0yT {
+    background-size: contain;
+    background-color: white;
+}
+span.mbri-download.mbr-iconfont.mbr-iconfont-btn {
+    display: none;
+}
+.navbar-nav .nav-link {
+    padding: 0 !important;
+    margin: 0 0 0 15px !important;
+}
+.navbar-toggleable-sm .navbar-nav .nav-link {
+    padding: 0 !important;
+    margin: 0 0 0 10px !important;
+}
+.cid-qTkzRZLJNu .btn {
+    padding: 16px 20px;
+}
+}
