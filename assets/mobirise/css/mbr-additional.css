@@ -8067,4 +8067,19 @@ body.white-nav .navbar-dropdown.bg-color.transparent .nav-link.text-white {
     .cid-rjWO8Nq0yT .mbr-section-btn {
         margin-bottom: 90px;
     }
+    
+    .cid-rgB3CrWvLM {
+        background-image: url("../../../assets/images/portrait-banner-join.jpg");
+        min-height: 800px;
+        background-size: contain;
+        background-position: center top;
+    }
+
+    .cid-rgB3CrWvLM .container.align-center {
+        margin-top: 480px;
+    }
+
+    .cid-rgB3CrWvLM .mbr-section-btn {
+        margin-bottom: 80px;
+    }
 }
