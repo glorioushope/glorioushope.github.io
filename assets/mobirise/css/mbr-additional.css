@@ -7993,3 +7993,8 @@ body {
 .cid-rh2jHnE8lW .copyright > p {
   text-align: left;
 }
+
+
+.navbar-dropdown.bg-color.transparent .nav-link.text-white {
+    color: #316c11 !important;
+}
