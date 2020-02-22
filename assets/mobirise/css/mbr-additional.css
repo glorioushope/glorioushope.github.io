@@ -8107,3 +8107,14 @@ body.white-nav .navbar-dropdown.bg-color.transparent .nav-link.text-white {
         background-color: white;
     }
 }
+@media (max-width: 767px) {
+    .cid-roYhSV5O6A {
+        background-position: center top 100px;
+    }
+    .cid-roYhSV5O6A:before {
+        display: none;
+    }
+    .cid-rjWO8Nq0yT:before {
+        display: none;
+    }
+}
